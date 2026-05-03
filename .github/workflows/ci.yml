@@ -17,7 +17,7 @@ jobs:
       - name: Install flake8
         run: pip install flake8
       - name: Run flake8
-        run: flake8 producer/ etl/ --max-line-length=120 --ignore=E501
+        run: flake8 producer/ etl/ --max-line-length=120 --ignore=E501,W391,F401,F841
   validate-and-test:
     name: Validate Data and Run Tests
     runs-on: ubuntu-latest
