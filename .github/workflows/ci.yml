@@ -46,6 +46,8 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+      - name: Install dependencies
+        run: pip install -r requirements.txt
       - name: Validate imports
         run: |
           python -c "from producer.event_producer import generate_event; print('Producer OK')"
