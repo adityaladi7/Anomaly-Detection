@@ -1,6 +1,6 @@
 # 🔍 Real-Time E-Commerce Anomaly Detection Pipeline
 
-[![CI/CD](https://github.com/adityaladi7/realtime-anomaly-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/adityaladi7/realtime-anomaly-pipeline/actions)
+[![Pipeline CI/CD](https://github.com/adityaladi7/Anomaly-Detection/actions/workflows/ci.yml/badge.svg)](https://github.com/adityaladi7/Anomaly-Detection/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue)
 ![DuckDB](https://img.shields.io/badge/DuckDB-0.10-yellow)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-Streaming-black)
