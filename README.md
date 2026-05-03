@@ -180,6 +180,6 @@ TestEndToEnd         (5 tests)  — full pipeline, DuckDB load, deduplication, q
 
 ---
 
-## Author
+## Author  
 
 **Aditya Gaur** · [github.com/adityaladi7](https://github.com/adityaladi7) · [linkedin.com/in/adityagaur](https://linkedin.com/in/adityagaur)
